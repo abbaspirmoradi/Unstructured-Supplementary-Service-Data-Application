@@ -1,0 +1,3 @@
+ReflectionInterface=ir.org.acm.controller.ReflectionController
+PatternInterface=ir.org.acm.controller.PatternController
+MessageDao=ir.org.acm.doa.MessageDao
